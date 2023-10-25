@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chaitanya-Shahare&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![An image of @chaitanyashahare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaitanyashahare)](https://holopin.io/@chaitanyashahare)
