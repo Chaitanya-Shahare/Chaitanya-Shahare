@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Goals and Achieve them, According to Brian Tracy](https://blog.chaitanyashahare.com/posts/how-to-set-goals-and-achieve-them-according-to-brian-tracy/)
 - [Delete All Node Modules on Your System](https://blog.chaitanyashahare.com/posts/delete-all-node-modules-on-your-system/)
 - [Elevate Your Youtube Music Experience: Navigating YouTube Music with Vim-Like Keybindings](https://blog.chaitanyashahare.com/posts/youtube-music-vim-keybindings/)
 - [Open Control Center on Mac With a Keyboard Shortcut](https://blog.chaitanyashahare.com/posts/open-control-center-with-a-keyboard-shortcut/)
-- [Streamline Codebase Maintenance: Project-Wide Find and Replace in Neovim with Telescope and Quickfix List](https://blog.chaitanyashahare.com/posts/project-wide-find-and-replace-in-neovim/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
