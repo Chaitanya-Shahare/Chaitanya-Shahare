@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential GitHub CLI Commands for Efficiency](https://blog.chaitanyashahare.com/posts/github-cli-command/)
 - [Understanding Git Merge vs. Git Rebase: A Guide for Beginners and Beyond](https://blog.chaitanyashahare.com/posts/git-merge-vs-rebase/)
 - [How to Set Goals and Achieve them, According to Brian Tracy](https://blog.chaitanyashahare.com/posts/how-to-set-goals-and-achieve-them-according-to-brian-tracy/)
 - [Delete All Node Modules on Your System](https://blog.chaitanyashahare.com/posts/delete-all-node-modules-on-your-system/)
-- [Elevate Your Youtube Music Experience: Navigating YouTube Music with Vim-Like Keybindings](https://blog.chaitanyashahare.com/posts/youtube-music-vim-keybindings/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
