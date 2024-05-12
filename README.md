@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LLVM.org Website Redesign GSoC Project Introduction](https://blog.chaitanyashahare.com/posts/llvm-org-website-redesign-gsoc-project-introduction/)
 - [Essential GitHub CLI Commands for Efficiency](https://blog.chaitanyashahare.com/posts/github-cli-command/)
 - [Understanding Git Merge vs. Git Rebase: A Guide for Beginners and Beyond](https://blog.chaitanyashahare.com/posts/git-merge-vs-rebase/)
 - [I Got Accepted in Google Summer of Code &lpar;GSoC&rpar; 2024!!!](https://blog.chaitanyashahare.com/posts/i-got-accepted-in-google-summer-of-code-gsoc/)
-- [How to Set Goals and Achieve them, According to Brian Tracy](https://blog.chaitanyashahare.com/posts/how-to-set-goals-and-achieve-them-according-to-brian-tracy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
