@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential GitLab CLI Commands for Efficiency](https://blog.chaitanyashahare.com/posts/gitlab-cli-command/)
+- [Week 2 at Google Summer of Code @LLVM.org: Progress and Presentations](https://blog.chaitanyashahare.com/posts/week-2-gsoc/)
 - [Week 1 at Google Summer of Code @LLVM.org: Kicking Off the Community Bonding Period](https://blog.chaitanyashahare.com/posts/week-1-gsoc/)
 - [LLVM.org Website Redesign GSoC Project Introduction](https://blog.chaitanyashahare.com/posts/llvm-org-website-redesign-gsoc-project-introduction/)
-- [Essential GitHub CLI Commands for Efficiency](https://blog.chaitanyashahare.com/posts/github-cli-command/)
-- [Understanding Git Merge vs. Git Rebase: A Guide for Beginners and Beyond](https://blog.chaitanyashahare.com/posts/git-merge-vs-rebase/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
