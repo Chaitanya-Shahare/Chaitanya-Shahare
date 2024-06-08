@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Interactive Rebase Is Amazing](https://blog.chaitanyashahare.com/posts/git-interactive-rebase-is-amazing/)
 - [Week 4 at GSoC @ LLVM: Getting a few responses on survey](https://blog.chaitanyashahare.com/posts/week-4-gsoc/)
 - [Friendship Broken with Vimwiki, Now Obsidian.nvim is My New Best Friend](https://blog.chaitanyashahare.com/posts/vimwiki-to-obsidian/)
 - [Week 3 at Google Summer of Code @LLVM.org: Releasing the RFC and Finalizing the Survey](https://blog.chaitanyashahare.com/posts/week-3-gsoc/)
-- [Essential GitLab CLI Commands for Efficiency](https://blog.chaitanyashahare.com/posts/gitlab-cli-command/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
