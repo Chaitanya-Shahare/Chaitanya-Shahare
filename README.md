@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 6 of Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-6-gsoc/)
 - [Week 5 at GSoC @ LLVM](https://blog.chaitanyashahare.com/posts/week-5-gsoc/)
 - [Git Interactive Rebase Is Amazing](https://blog.chaitanyashahare.com/posts/git-interactive-rebase-is-amazing/)
 - [Week 4 at GSoC @ LLVM: Getting a few responses on survey](https://blog.chaitanyashahare.com/posts/week-4-gsoc/)
-- [Friendship Broken with Vimwiki, Now Obsidian.nvim is My New Best Friend](https://blog.chaitanyashahare.com/posts/vimwiki-to-obsidian/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
