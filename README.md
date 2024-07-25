@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 11 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-11-gsoc/)
+- [Week 10 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-10-gsoc/)
 - [Week 9 of Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-9-gsoc/)
 - [Week 7 &amp; 8 of Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-7-8-gsoc/)
-- [Week 6 of Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-6-gsoc/)
-- [Week 5 at GSoC @ LLVM](https://blog.chaitanyashahare.com/posts/week-5-gsoc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
