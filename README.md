@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 13 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-13-gsoc/)
 - [How Yabai &amp; Skhd Changed My macOS Workflow as a Software Engineer](https://blog.chaitanyashahare.com/posts/yabai-skhd-macos-workflow/)
 - [Week 12 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-12-gsoc/)
 - [Week 11 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-11-gsoc/)
-- [Week 10 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-10-gsoc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
