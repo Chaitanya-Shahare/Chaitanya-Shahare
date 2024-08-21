@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 14 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-14-gsoc/)
+- [How to Publish a Bash Script to Homebrew](https://blog.chaitanyashahare.com/posts/how-to-publish-a-bash-script-to-homebrew/)
 - [What is the Leader Key in Neovim?](https://blog.chaitanyashahare.com/posts/what-is-the-leader-key-in-neovim/)
 - [Week 13 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-13-gsoc/)
-- [How Yabai &amp; Skhd Changed My macOS Workflow as a Software Engineer](https://blog.chaitanyashahare.com/posts/yabai-skhd-macos-workflow/)
-- [Week 12 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-12-gsoc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
