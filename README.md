@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 18 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-18-gsoc/)
+- [Week 17 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-17-gsoc/)
 - [Week 16 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-16-gsoc/)
 - [Week 15 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-15-gsoc/)
-- [Week 14 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-14-gsoc/)
-- [How to Publish a Bash Script to Homebrew](https://blog.chaitanyashahare.com/posts/how-to-publish-a-bash-script-to-homebrew/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
