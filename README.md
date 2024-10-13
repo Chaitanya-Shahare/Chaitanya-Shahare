@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 22 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-22-gsoc/)
 - [How to Use React Toastify With NextJS](https://blog.chaitanyashahare.com/posts/how-to-use-react-toastify-with-next-js/)
 - [Week 21 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-21-gsoc/)
 - [Week 19 &amp; 20 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-19-20-gsoc/)
-- [Week 18 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-18-gsoc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
