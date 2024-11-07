@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 24 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-25-gsoc/)
 - [Week 24 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-24-gsoc/)
 - [How to use Context API With Custom Hook React](https://blog.chaitanyashahare.com/posts/context-api-with-custom-hook-react/)
 - [Week 23 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-23-gsoc/)
-- [Week 22 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-22-gsoc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
