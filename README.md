@@ -21,7 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 24 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-25-gsoc/)
+- [Week 25 Google Summer of Code 2024 Wrap Up](https://blog.chaitanyashahare.com/posts/week-25-gsoc/)
 - [Week 24 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-24-gsoc/)
 - [How to use Context API With Custom Hook React](https://blog.chaitanyashahare.com/posts/context-api-with-custom-hook-react/)
 - [Week 23 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-23-gsoc/)
