@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Shahare</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-shahare&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-shahare" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaiitanyas" target="blank"><img src="https://img.shields.io/twitter/follow/chaiitanyas?logo=twitter&style=for-the-badge" alt="chaiitanyas" /></a> </p>
 
-- 🔭 I’m currently working on [Workout Tracker Mobile App](https://github.com/Chaitanya-Shahare/workout-tracker-frontend)
+- 🔭 I’m currently working on [3 Band EQ](https://github.com/Chaitanya-Shahare/3-band-eq)
 
 - 👨‍💻 All of my projects are available at [https://chaitanyashahare.com](https://chaitanyashahare.com)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **chaitanya@chaitanyashahare.com**
+- 📫 How to reach me **shaharechaitanya3@gmail.com**
 
 - ⚡ Fun fact **I use Neovim btw.**
 
