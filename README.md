@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/chaiitanyas" target="blank"><img src="https://img.shields.io/twitter/follow/chaiitanyas?logo=twitter&style=for-the-badge" alt="chaiitanyas" /></a> </p>
 
+- My work GitHub account: [chaitanya-lgtm](https://github.com/chaitanya-lgtm)
+
 - 🔭 I’m currently working on [3 Band EQ](https://github.com/Chaitanya-Shahare/3-band-eq)
 
 - 👨‍💻 All of my projects are available at [https://chaitanyashahare.com](https://chaitanyashahare.com)
