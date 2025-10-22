@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Stay Productive as a Software Engineer](https://blog.chaitanyashahare.com/posts/how-to-stay-productive-as-a-software-engineer/)
 - [Week 25 Google Summer of Code 2024 Wrap Up](https://blog.chaitanyashahare.com/posts/week-25-gsoc/)
 - [Week 24 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-24-gsoc/)
 - [How to use Context API With Custom Hook React](https://blog.chaitanyashahare.com/posts/context-api-with-custom-hook-react/)
-- [Week 23 Google Summer of Code @ LLVM](https://blog.chaitanyashahare.com/posts/week-23-gsoc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
