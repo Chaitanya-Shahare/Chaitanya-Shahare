@@ -24,9 +24,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Volume Game](https://blog.chaitanyashahare.com/posts/the-volume-game/)
+- [Building a Reverse Proxy from Scratch](https://blog.chaitanyashahare.com/posts/reverse-proxy-from-scratch/)
+- [How BitTorrent&#39;s Choke Algorithm Works &lpar;And What I Learned Building Bad Peer&rpar;](https://blog.chaitanyashahare.com/posts/bittorrent-choke-algorithm/)
 - [Metacognition: Be Your Own Coach](https://blog.chaitanyashahare.com/posts/metacognition-be-your-own-coach/)
-- [Trust the Process... but Audit It](https://blog.chaitanyashahare.com/posts/trust-the-process-but-audit-it/)
-- [Designing a Practical Split Keyboard Layout for the Corne](https://blog.chaitanyashahare.com/posts/designing-corne-layout/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
