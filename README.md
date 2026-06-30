@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Volume Game](https://blog.chaitanyashahare.com/posts/the-volume-game/)
 - [Metacognition: Be Your Own Coach](https://blog.chaitanyashahare.com/posts/metacognition-be-your-own-coach/)
 - [Trust the Process... but Audit It](https://blog.chaitanyashahare.com/posts/trust-the-process-but-audit-it/)
 - [Designing a Practical Split Keyboard Layout for the Corne](https://blog.chaitanyashahare.com/posts/designing-corne-layout/)
-- [How to Stay Productive as a Software Engineer](https://blog.chaitanyashahare.com/posts/how-to-stay-productive-as-a-software-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
