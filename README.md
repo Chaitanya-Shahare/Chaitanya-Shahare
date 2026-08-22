@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Discipline: The Art of Doing What You Said You Would Do](https://blog.chaitanyashahare.com/posts/discipline-the-art-of-doing-what-you-said-you-would-do/)
 - [The Volume Game](https://blog.chaitanyashahare.com/posts/the-volume-game/)
 - [Building a Reverse Proxy from Scratch](https://blog.chaitanyashahare.com/posts/reverse-proxy-from-scratch/)
 - [How BitTorrent&#39;s Choke Algorithm Works &lpar;And What I Learned Building Bad Peer&rpar;](https://blog.chaitanyashahare.com/posts/bittorrent-choke-algorithm/)
-- [Metacognition: Be Your Own Coach](https://blog.chaitanyashahare.com/posts/metacognition-be-your-own-coach/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
